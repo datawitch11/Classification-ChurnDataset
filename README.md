@@ -1,4 +1,4 @@
-# Classification Methods-ChurnDataset
+# Classification-ChurnDataset
 
 
 "Churn rate, in its broadest sense, is a measure of the number of individuals or items moving out of a collective group over a specific period" -WikiPedia
